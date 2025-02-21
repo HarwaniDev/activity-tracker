@@ -1,0 +1,9 @@
+[package]
+name = "activity-tracker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+device_query = "3.0.0"
+dirs = "6.0.0"
+eframe = "0.31.0"
